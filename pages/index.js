@@ -24,9 +24,13 @@ export default function Home() {
   useEffect(() => {
     setColors(shuffleArray(LIGHT_COLORS));
   }, []);
+
+  const data={
+    "name":"Akshay Pillai"
+  }
   return (
     <Container
-      title="Akshay Pillai"
+      title={data}
       description="Entrepreneur, Developer and Strategist"
       // image="/avatar.jpg"
     >

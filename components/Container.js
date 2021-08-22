@@ -31,7 +31,7 @@ export default function Container(props) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://manuarora.in${router.asPath}`}
+          content={`https://getakshay.com${router.asPath}`}
         />
         <link rel="canonical" href={`https://getakshay.com${router.asPath}`} />
         <meta property="og:type" content={meta.type} />
