@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <Container
       title="Akshay Pillai"
-      description="Entrepreneur, developer and strategist"
+      description="Entrepreneur, Developer and Strategist"
       // image="/avatar.jpg"
     >
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
@@ -48,7 +48,7 @@ export default function Home() {
             <RainbowHighlight color={colors[1]}>
               <span className="dark:text-black">Software Engineer</span>
             </RainbowHighlight>{" "}
-            and earlier with companies and startups including InfinityLab, Exsight future, and more. You've discovered my piece on the internet –&nbsp;
+            and earlier with companies and startups including InfinityLab, Exsight future, and more. You've discovered my piece on the internet &nbsp;
             <RoughNotation
               type="underline"
               multiline={true}
@@ -121,7 +121,7 @@ export default function Home() {
         />
         <ProjectCard
           title="Renfre"
-          description= "Reanfre is a curated platform for everything related to international education for an Indian student and Renfre will give back up to 5% of the tuition fee as cashback to the students."
+          description= "Reanfre is a curated platform for everything related to international education for Indian students and Renfre will give back up to 5% of the tuition fee as cashback to the students."
           href="https://reanfree.com/"
           icon="covidrescue"
           tags={["Ed-tech", "Platform", "MVP"]}

@@ -156,14 +156,14 @@ export default function Timeline() {
       <ul>
         <Step title="Technology Consultant 🌎">
           Working as <a href="https://www.covidrescue.co.in">Freelance Technology Consultant</a>
-          worked with international teams in developing various scalable web Apps and MVP
+          worked with various international teams for developing various scalable web Apps and MVP
         </Step>
         <Step title="Lead dev- Social gaming platform ( 1.5 million views )  📈">
-          Lead the development of a social gaming App which was viewed around 1.5 million vistors through various social platform.
+          Lead the development of a social gaming App which was viewed by 1.5 unique audience through multiple social platform.
         </Step>
 
           <Step title="Become active in building financial portfolio ( various US & Indian Asset Class ) ">
-              Started focusing on personal investments and building a personal financial portfolio , learned about various assets classes and began taking up swing stock swing positions   .
+              Started focusing on personal investments and building a personal financial portfolio , learned about various assets classes and began investing in US and Indian instruments   .
           </Step>
       </ul>
 
@@ -188,12 +188,12 @@ export default function Timeline() {
             Graduate of  Bachelor of  Electronics & Communication  Engineering - Graduated with Christy Memorial  Distinction for the most accomplished graduate of the batch 2015-2019
         </Step>
         <Step title="Co-Founder & Lead @Infinity Lab 🚀">
-            Worked on savaral major technology products over two years , few them funded and aided by organizations including  Govt of India , Nasscom IIT Delhi and MIT.
+            Worked on several major technology products over two years , few them funded and aided by organizations including  Govt of India , Nasscom IIT Delhi and MIT.
             💰  Raised seed funding from KSUM, World's number-one public startup accelerator for an IoT based product
 
         </Step>
         <Step title="Consistently topped various International Hackathon & Startup Competition ⚛️">
-          Won sevaral international Hackathon and Competation while in college - Won Award for the best startup by NASSCOM , Won sevaral Tech events By IIT Delhi , NIT Calicut etc
+          Won various international Hackathon and Competition while in college - Won Award for the best startup by NASSCOM , Won sevaral Tech events By IIT Delhi , NIT Calicut etc
         </Step>
       </ul>
       {/*{isShowingFullTimeline ? (*/}
