@@ -121,7 +121,7 @@ export default function Home() {
         />
         <ProjectCard
           title="Renfre"
-          description= "Reanfre acts as a single curated platform for everything related to international education for an Indian student and Renfre will give back up to 5% of the tuition fee as cashback to the students."
+          description= "Reanfre is a curated platform for everything related to international education for an Indian student and Renfre will give back up to 5% of the tuition fee as cashback to the students."
           href="https://reanfree.com/"
           icon="covidrescue"
           tags={["Ed-tech", "Platform", "MVP"]}

@@ -1,11 +1,11 @@
 {
-  "name": "manuarora.in",
+  "name": "getakshay.com",
   "description": "My personal blog and website",
   "version": "1.0.0",
   "author": {
-    "name": "Manu Arora",
-    "email": "contact@manuarora.in",
-    "url": "https://manuarora.in"
+    "name": "Akshay Pillai",
+    "email": "sakshay797@gmail.com",
+    "url": "https://getakshay.com/"
   },
   "scripts": {
     "dev": "next dev",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manuarora700/personal-portfolio.git"
+    "url": "https://getakshay.com"
   },
   "dependencies": {
     "@headlessui/react": "^1.2.0",
