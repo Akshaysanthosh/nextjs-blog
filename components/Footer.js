@@ -40,10 +40,10 @@ export default function Footer() {
           <ExternalLink href="https://github.com/akshaysanthosh">
             GitHub
           </ExternalLink>
-          <ExternalLink href="https://linkedin.com/in/akshaypillai">
+          <ExternalLink href="https://linkedin.com/akshay-santhosh/">
             LinkedIn
           </ExternalLink>
-          <ExternalLink href="https://twitter.com/akshaypillai">
+          <ExternalLink href="https://twitter.com/akshaysanthosh_">
             Twitter
           </ExternalLink>
           <ExternalLink href="https://instagram.com/get.akshay">

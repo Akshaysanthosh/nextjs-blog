@@ -59,16 +59,16 @@ export default function Home() {
               padding={5}
               color={colors[3]}
             >
-              <Link
-                href="/blog"
-                className="font-medium text-gray-700 transition-colors hover:text-gray-900 focus:text-gray-900 focus:outline-none"
-              >
-                <a className="font-medium text-gray-700 transition-colors hover:text-gray-900 focus:text-gray-900 focus:outline-none dark:text-gray-300 dark:hover:text-gray-600">
-                  <LinkPreview url="https://getakshay.com/blog">
-                    Checkout my blog
-                  </LinkPreview>
-                </a>
-              </Link>
+              {/*<Link*/}
+              {/*  href="/blog"*/}
+              {/*  className="font-medium text-gray-700 transition-colors hover:text-gray-900 focus:text-gray-900 focus:outline-none"*/}
+              {/*>*/}
+              {/*  <a className="font-medium text-gray-700 transition-colors hover:text-gray-900 focus:text-gray-900 focus:outline-none dark:text-gray-300 dark:hover:text-gray-600">*/}
+              {/*    <LinkPreview url="https://getakshay.com/blog">*/}
+              {/*      Checkout my blog*/}
+              {/*    </LinkPreview>*/}
+              {/*  </a>*/}
+              {/*</Link>*/}
             </RoughNotation>{" "}
             <br/>
             <br/>

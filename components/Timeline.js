@@ -155,19 +155,15 @@ export default function Timeline() {
       <Year>2021</Year>
       <ul>
         <Step title="Technology Consultant 🌎">
-          Working as <a href="https://www.covidrescue.co.in">Technology Consultant</a>
-          worked with international clients and stakeholder in developing various scalable web platform and MVP
+          Working as <a href="https://www.covidrescue.co.in">Freelance Technology Consultant</a>
+          worked with international teams in developing various scalable web Apps and MVP
         </Step>
         <Step title="Lead dev- Social gaming platform ( 1.5 million views )  📈">
-          Integrated Vaccination slots notification system in covidrescue web
-          app. Notified people whenever vaccination slot was available in their
-          area and city.
+          Lead the development of a social gaming App which was viewed around 1.5 million vistors through various social platform.
         </Step>
 
           <Step title="Become active in building financial portfolio ( various US & Indian Asset Class ) ">
-              Integrated Vaccination slots notification system in covidrescue web
-              app. Notified people whenever vaccination slot was available in their
-              area and city.
+              Started focusing on personal investments and building a personal financial portfolio , learned about various assets classes and began taking up swing stock swing positions   .
           </Step>
       </ul>
 
