@@ -1,5 +1,5 @@
 export default async (_, res) => {
-  const userResponse = await fetch("https://api.github.com/users/manuarora700");
+  const userResponse = await fetch("https://api.github.com/users/ak");
   const userReposResponse = await fetch(
     "https://api.github.com/users/manuarora700/repos?per_page=100"
   );
