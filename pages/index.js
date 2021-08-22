@@ -40,13 +40,13 @@ export default function Home() {
           </h1>
 
           <h2 className="text-gray-600 dark:text-gray-400 mb-16 mt-4 font-light tracking-wide leading-loose">
-            I’m a Entrepreneur, developer and strategist. I have worked at companies like {" "}
+            I’m an Entrepreneur, developer and strategist. I have worked at companies like {" "}
             <span className="font-bold">
               <span className="text-blue-500">In</span>App
             </span>{" "}
             as a{" "}
             <RainbowHighlight color={colors[1]}>
-              <span className="dark:text-black">Software Engineer.</span>
+              <span className="dark:text-black">Software Engineer</span>
             </RainbowHighlight>{" "}
             and earlier with companies and startups including InfinityLab, Exsight future, and more. You've discovered my piece on the internet –&nbsp;
             <RoughNotation
@@ -74,12 +74,12 @@ export default function Home() {
             <br/>
             I love working at the{" "}
             <RainbowHighlight color={colors[2]}>
-              <span className="dark:text-black">cross-section.</span>
+              <span className="dark:text-black">cross-section</span>
             </RainbowHighlight>{" "}
             of Product development, Growth, and Marketing. I’ve collaborated with tech and marketing teams from all around the world to help and identify problems to solve for their platforms.
             <br/>
             <br/>
-            while you're here. <br />I write about technology, Investment and{" "}
+            <br />I write about technology, Investment and{" "}
             <StaticLinkPreview url="https://i.redd.it/ifz2dabv3jh41.png">
               Economics.
             </StaticLinkPreview>
