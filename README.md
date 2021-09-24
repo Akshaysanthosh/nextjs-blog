@@ -1,28 +1,4 @@
-<p align="center">
-  <a href="https://github.com/manuarora700/portfolio-website">
-    <img src="https://manuarora.in/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  </p>
 
-# manuarora.in
-
-This is my personal website. Here I write blogs, add code snippets, code live demos, and add resources for everybody else to look refer.
-
-The application is built with **Next.js/React/MDX**
-
-## Overview
-
-- `pages/api/*` - API routes for the [`Dashboard`](https://manuarora.in/dashboard). Contains Twitter, Spotify, and Google Analytics APIs.
-
-- `pages/blog/*` - Static pages rendered using MDX
-
-- `pages/resources` - [Resources](https://manuarora.in/resources) page
-
-- `pages/snippets` - [Snippets](https://manuarora.in/snippets) page to see all the ready to use code snippets.
-
-- `pages/tweets` - my favourite [Tweets](https://manuarora.in/tweets) from the twitter world.
-
-- `pages/*` - All other static pages.
 
 ## Installation
 
