@@ -60,7 +60,7 @@ export default function Contact() {
         Drop your message and let's discuss about your project.
       </p>
       <a
-        href="https://wa.me/9946165037?text=I want to work on a project with you"
+        href="https://wa.me/+919946165037?text=I want to work on a project with you"
         className="mt-4 px-4 text-center w-full font-bold h-8 bg-green-400 dark:bg-green-400 text-gray-900 py-1 dark:text-gray-900 rounded"
         type="submit"
       >
@@ -75,9 +75,10 @@ export default function Contact() {
         <input
           ref={inputEl}
           aria-label="Email for newsletter"
-          placeholder="sakshay797@gmail.com"
+          defaultValue="sakshay797@gmail.com"
           type="email"
           autoComplete="email"
+          onClick={() =>  navigator.clipboard.writeText('Copy this text to clipboard')}
           required
           className="px-4 py-2 mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full border-gray-300 rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
         />
@@ -85,17 +86,17 @@ export default function Contact() {
           className="flex items-center justify-center absolute right-1 top-1 px-4 font-bold h-8 bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded w-28"
           type="submit"
         >
-          {form.state === "Sending" ? <LoadingSpinner /> : "Send"}
+         {form.state === "Copied!" ? <LoadingSpinner /> : "Copy"}
         </button>
       </form>
 
-      {form.state === "error" ? (
-        <ErrorMessage>{form.message}</ErrorMessage>
-      ) : form.state === "success" ? (
-        <SuccessMessage>{form.message}</SuccessMessage>
-      ) : (
-        <p className="text-sm text-gray-800 dark:text-gray-200"></p>
-      )}
+//       {form.state === "error" ? (
+//         <ErrorMessage>{form.message}</ErrorMessage>
+//       ) : form.state === "success" ? (
+//         <SuccessMessage>{form.message}</SuccessMessage>
+//       ) : (
+//         <p className="text-sm text-gray-800 dark:text-gray-200"></p>
+//       )}
     </div>
   );
 }
